@@ -73,8 +73,6 @@ Access advanced options by clicking "Open Settings" in the popup.
 
 **Filter Modes:**
 - **Blur** (18px): Heavily blurs content - click to reveal
-- **Censor**: Solid black bar covers content - click to reveal  
-- **Remove**: Permanently removes content from the page (cannot be revealed)
 
 **Keyword Tips:**
 - ✅ Keywords are **case-insensitive** ("spoiler" = "SPOILER")
