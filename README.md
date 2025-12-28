@@ -6,17 +6,17 @@ Content Shield is a lightweight, cross-browser extension that automatically filt
 
 ## ✨ Key Features
 
-- **🎯 Smart Keyword Matching** - Matches keywords with or without spaces ("stranger things" = "strangerthings")
-- **🌊 Works with Dynamic Content** - Automatically filters YouTube Shorts, infinite scroll, and live-updating feeds
+- **🌊 Works with Dynamic Content** - Automatically filters YouTube Shorts, and live-updating feeds
+- **✏️ Easy Management** - Add, edit, or delete keywords directly from the popup
+- **🔒 100% Private** - All data stored locally in your browser, no tracking
+- **🌐 Works Everywhere** - YouTube, Reddit, Twitter/X, Facebook, news sites, and any web page
+- **🦊 Cross-Browser** - Compatible with Chrome, Edge, Brave, and Firefox
 - **⚡ Instant Filtering** - Content is filtered as pages load, before you see spoilers
 - **🎨 Three Filter Modes:**
   - **Blur** (default): Content is blurred and clickable to reveal
   - **Censor**: Content is covered with black bar, click to reveal
   - **Remove**: Content is completely removed from the page
-- **✏️ Easy Management** - Add, edit, or delete keywords directly from the popup
-- **🔒 100% Private** - All data stored locally in your browser, no tracking
-- **🌐 Works Everywhere** - YouTube, Reddit, Twitter/X, Facebook, news sites, and any web page
-- **🦊 Cross-Browser** - Compatible with Chrome, Edge, Brave, and Firefox
+
 
 ## 🚀 Quick Start
 
